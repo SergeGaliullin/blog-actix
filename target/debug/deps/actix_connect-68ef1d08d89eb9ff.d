@@ -1,0 +1,12 @@
+/home/serge/Projects/Rust/blog-actix/target/debug/deps/actix_connect-68ef1d08d89eb9ff.rmeta: /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/lib.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connect.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connector.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/error.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/resolver.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/service.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/ssl/mod.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/uri.rs
+
+/home/serge/Projects/Rust/blog-actix/target/debug/deps/actix_connect-68ef1d08d89eb9ff.d: /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/lib.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connect.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connector.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/error.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/resolver.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/service.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/ssl/mod.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/uri.rs
+
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/lib.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connect.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/connector.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/error.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/resolver.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/service.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/ssl/mod.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-connect-0.2.5/src/uri.rs:

@@ -1,0 +1,11 @@
+/home/serge/Projects/Rust/blog-actix/target/debug/deps/serde_urlencoded-9ce3b92839b6ef0b.rmeta: /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs
+
+/home/serge/Projects/Rust/blog-actix/target/debug/deps/serde_urlencoded-9ce3b92839b6ef0b.d: /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs /home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs
+
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs:
+/home/serge/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs:
